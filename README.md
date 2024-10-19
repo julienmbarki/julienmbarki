@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🎓 PhD Candidate in Economics
+- 💡 Working on Digital and Cultural industries
+- 
+
 <!--
 **julienmbarki/julienmbarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
