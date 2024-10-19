@@ -1,15 +1,20 @@
 ## Hi there 👋
 
 - 🎓 PhD Candidate in Economics
-- 💡 Working on Digital and Cultural industries
-- 
+- 💡 Digital and Cultural industries
+- 🔭 Currently working on a paper to estimate the causal impact of TikTok trends on Spotify's streams
+
+## Lastest work 🔬
+
+- [Louafi & M'Barki (2024). Algo-Rhythm Unplugged: Effects of Explaining Algorithmic Recommendations on Music Discovery.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982393)
+- M'Barki (2024). 
 
 <!--
 **julienmbarki/julienmbarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
