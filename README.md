@@ -12,4 +12,4 @@
 ## Contact me 📨
 
 - 📧 Send me an email: julien.m-barki@univ-paris1.fr
-- 🙌 Let's connect on [LinkedIn](https://www.linkedin.com/in/julien-m-barki-221aa4197/) or [Bluesky]((https://bsky.app/profile/julienmbk.bsky.social))!
+- 🙌 Let's connect on [LinkedIn](https://www.linkedin.com/in/julien-m-barki-221aa4197/) or [Bluesky](https://bsky.app/profile/julienmbk.bsky.social)!
