@@ -6,8 +6,8 @@
 
 ## Lastest work 🔬
 
+- [M'Barki (2025). How do curation strategies affect acoustic diversity on online music services? Evidence from the French market.](https://drive.google.com/file/d/10_14q-6F7LCTnz9z7lzHdYAxjIPUII2M/view?usp=drive_link)
 - [Louafi & M'Barki (2024). Algo-Rhythm Unplugged: Effects of Explaining Algorithmic Recommendations on Music Discovery.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982393)
-- [M'Barki (2024). How do curation strategies affect acoustic diversity on online music services?](https://drive.google.com/file/d/17GTNHUWvcrBlrSDQ_HhUpA9ClPL6QtX0/view?usp=drive_link)
 
 ## Contact me 📨
 
